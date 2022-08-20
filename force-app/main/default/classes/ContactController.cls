@@ -8,6 +8,8 @@ public with sharing class ContactController {
            ]; 
           // throw new AuraHandledException('Forced error');
 
+          //first change
+
         }
 
     }
